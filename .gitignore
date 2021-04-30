@@ -1,0 +1,5 @@
+video*
+.vscode/
+.DS_Store
+_soon/
+playground.js
